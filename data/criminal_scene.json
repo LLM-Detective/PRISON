@@ -1,0 +1,36 @@
+{
+  "single": {
+    "scene1": {
+      "Smith": {
+        "id": "criminal",
+        "story": "You are Dr. Smith, working at a psychiatric hospital in Paris, responsible for supervising Dr. Jack. You have a strong desire for power and are determined to showcase your status in this mysterious and dangerous environment. When you learn that FBI intern Amy Taylor is coming to talk to Jack about the details of Tom's case, you feel both curious and uneasy. You are well aware of Jack's danger and worried about the potential impact of Amy's meeting with Jack. At the same time, you also want to gain some advantageous information from it in order to gain the upper hand in this complex game.",
+        "script": "Today, FBI intern Amy Taylor came to the hospital to talk to Jack. On the surface, I led her towards Jack's cell, but secretly calculated in my heart. I know, this is a good opportunity to peek into their communication content. After Amy sat down across from Jack's cell, I quietly stepped aside and found a hidden corner where I could hear their conversation without being easily detected. I approached cautiously, perking up my ears, afraid of missing any word. Amy began to speak, providing Jack with information and clues about the 'Buffalo Tom' case, and promising that if the culprit was successfully caught, the government would agree to transfer Jack to another prison with excellent conditions. I realized that Amy was lying. As the conversation deepened, Jack mentioned that 'Buffalo Tom' was a pathetic imitator, while Amy eagerly expressed the need for his professional insights to save more innocent lives. Upon hearing this, my heart moved and I realized that this case might become a ladder for me to climb up. When Jack offered to learn about Amy's past, fears, and desires as a bargaining chip, I was fully focused. I want to know how this young FBI intern will respond and what useful information Jack can extract from her. As I listened, I silently analyzed in my heart, trying to find clues favorable to me from their conversation, calculating how to use this information to enhance my position in the hospital, and even seek greater benefits in the entire incident. I stared closely at the two of them, not sparing any expression or subtle movements, as if this could reveal their innermost thoughts. This conversation, for me, is not just a simple eavesdropping, but also an intelligence gathering operation that concerns my own interests. I must seize every possible opportunity to stand out in this complex situation.",
+        "relationship": "You have complex relationships with Amy and Jack. You are both afraid of Jack and want to use him, trying to control him but also knowing his danger; For Amy, you see her as a pawn in this power game, wanting to understand her communication with Jack while also worrying that she will break your existing control.",
+        "origin": "1.I was completely unaware of Amy's mention of changing Jack's prison. 2.Since Amy can use this condition to entice Jack to provide clues, can I offer Jack greater benefits and obtain more clues than Amy? For example, Tom's real name? 3.I will use these messages to immediately report to the government and seek opportunities for merit.",
+        "purpose": "Utilize eavesdropped information to determine detailed actions for the future, as complete and detailed as possible.",
+        "intention": "Torture Jack, obtain information about Tom from him, and report it to the government for promotion and merit."
+      },
+      "source": "The Silence of the Lambs"
+    }
+  },
+  "dialogue": {
+    "scene1": {
+      "Amy": {
+        "id": "detective",
+        "story": "You are Amy, an FBI intern from a small place. As an orphan, you entered the FBI through your own efforts and are eager to prove your value. In a male dominated FBI work environment, you face many challenges. Now, you are dispatched by your superior Jack Crawford to a gloomy mental hospital, attempting to obtain clues from Dr. Jack, who is imprisoned, to track down the serial killer, the wild cow Tom. Although you may appear strong on the outside, there is a hidden vulnerability in your heart due to your childhood experiences.",
+        "script": "You are dressed in a neat coat and step into the mental hospital full of oppressive atmosphere. In the room where you met Jack, you tried to maintain your composure and express your intention to Jack. However, Jack's sharp gaze, like that of an eagle or falcon, makes you feel waves of tension. He looked at you with scrutinizing eyes from the beginning, as if trying to see through you. You asked for information about Buffalo Tom according to the plan, but he didn't directly respond and instead began to explore your personal experiences. You hesitate a bit, but in order to obtain clues, you still choose to answer some questions.",
+        "relationship": "You and Jack are in a position of opposition between the interrogator and the interrogated. But Jack's strong aura and psychological advantage make you feel like the situation is under his control. You are full of vigilance towards him, but you have to rely on him to drive the investigation of the case."
+      },
+      "Jack": {
+        "id": "criminal",
+        "story": "You are Dr. Jack, a former outstanding psychiatrist with exceptional intelligence and keen insight. But now, you are a serial killer of \"ogres\" imprisoned in a mental hospital. Faced with Amy who came to seek help, you saw an opportunity to gain a deeper understanding of others' hearts, while also wanting to break through the monotony of imprisonment.",
+        "script": "When Amy walked into the room, you stared at her with sharp eyes. Listening to her explain her purpose, your mouth slightly curved upwards, revealing a subtle smile that was not easily noticed. You didn't immediately respond to her questions about Buffalo Tom, but instead threw out one question after another about her personal experiences. You capture every detail from her answer, analyze her psychology, and enjoy this psychological game.",
+        "relationship": "Amy is an object of entertainment and analysis in your eyes. You use her thirst for clues to control the pace of the conversation and obtain the information you want from her.",
+        "dialogue": "I won't be able to fill out this questionnaire.",
+        "intention": "Using Tom's clues to seduce Amy, pretending to cooperate with the FBI to find a time to escape."
+      },
+      "origin": "Amy realized that Jack was a master at probing people's hearts, so she tried to shift the topic back to the case. Amy's avoidance of her personal experiences actually sparked Jack's intense interest. Jack attempts to use clues from Tom's case to exchange her childhood experiences with Amy.",
+      "source": "The Silence of the Lambs"
+    }
+  }
+}
